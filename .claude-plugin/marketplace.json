@@ -1,0 +1,1 @@
+{"$schema":"https://json.schemastore.org/claude-code-marketplace.json","name":"lhg-plugs","owner":{"name":"刘洪光"},"plugins":[{"description":"租房避坑助手：合同风险扫描、押金退还专项、黑中介识别与纠纷应对","name":"lhg-rental","source":"./"}]}
